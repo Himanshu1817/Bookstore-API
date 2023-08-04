@@ -4,6 +4,7 @@ const router = express.Router();
 const BookController = require('../controllers/bookController');
 const jwt = require('jsonwebtoken');
 
+
 // Middleware to validate JWT token and check user role
 const authorizeAdmin = (req, res, next) => {
   const token = req.headers.authorization;
@@ -34,6 +35,8 @@ router.get('/books/:id', BookController.getBookById);
 router.put('/books/:id', authorizeAdmin, BookController.updateBook);
 router.delete('/books/:id', authorizeAdmin, BookController.deleteBook);
 
+
+router.post('/buy/:id',BookController.buyBook)
+
+
 module.exports = router;
-
-
