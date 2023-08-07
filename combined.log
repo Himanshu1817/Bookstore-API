@@ -1,1 +1,107 @@
 {"level":"info","message":"Server running on port 3000","service":"bookstore-api"}
+{"level":"info","message":"Server running on port 3000","service":"bookstore-api"}
+{"level":"info","message":"[POST] /books/buy/64c39597540a7d548bc95c30","service":"bookstore-api"}
+{"level":"info","message":"Server running on port 3000","service":"bookstore-api"}
+{"level":"info","message":"[POST] /register","service":"bookstore-api"}
+{"level":"info","message":"[POST] /register","service":"bookstore-api"}
+{"level":"info","message":"Server running on port 3000","service":"bookstore-api"}
+{"level":"info","message":"[POST] /register","service":"bookstore-api"}
+{"level":"info","message":"Server running on port 3000","service":"bookstore-api"}
+{"level":"info","message":"[POST] /register","service":"bookstore-api"}
+{"level":"info","message":"[POST] /login","service":"bookstore-api"}
+{"level":"info","message":"[POST] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books/64c351a729a0d6242644f4b1","service":"bookstore-api"}
+{"level":"info","message":"[PUT] /books/books/64c351a729a0d6242644f4b1","service":"bookstore-api"}
+{"level":"info","message":"[DELETE] /books/books/64c2524863413b0d60db9798","service":"bookstore-api"}
+{"level":"info","message":"[POST] /books/buy/64cc9820881c7df8b801ba74","service":"bookstore-api"}
+{"level":"info","message":"Book purchased successfully: ID 64cc9820881c7df8b801ba74, Payment Number: d43b87f9-9e28-4802-8eaa-6ee91a40ea71","service":"bookstore-api"}
+{"level":"info","message":"[POST] /books/buy/64cc9820881c7df8b801ba7","service":"bookstore-api"}
+{"level":"info","message":"Server running on port 3000","service":"bookstore-api"}
+{"level":"info","message":"[POST] /books/buy/64cc9820881c7df8b801ba7","service":"bookstore-api"}
+{"level":"info","message":"Server running on port 3000","service":"bookstore-api"}
+{"level":"info","message":"Server running on port 3000","service":"bookstore-api"}
+{"level":"info","message":"[POST] /books/buy/64cc9820881c7df8b801ba7","service":"bookstore-api"}
+{"level":"error","message":"Error while buying book: Cast to ObjectId failed for value \"64cc9820881c7df8b801ba7\" (type string) at path \"_id\" for model \"Book\"","service":"bookstore-api"}
+{"level":"info","message":"[POST] /books/buy/64cc9820881c7df8b801ba74","service":"bookstore-api"}
+{"level":"info","message":"Book purchased successfully: ID 64cc9820881c7df8b801ba74, Payment Number: d43b87f9-9e28-4802-8eaa-6ee91a40ea71","service":"bookstore-api"}
+{"level":"info","message":"Server running on port 3000","service":"bookstore-api"}
+{"level":"info","message":"[POST] /login","service":"bookstore-api"}
+{"level":"info","message":"[POST] /login","service":"bookstore-api"}
+{"level":"info","message":"[POST] /login","service":"bookstore-api"}
+{"level":"info","message":"Server running on port 3000","service":"bookstore-api"}
+{"level":"info","message":"Server running on port 3000","service":"bookstore-api"}
+{"level":"info","message":"Server running on port 3000","service":"bookstore-api"}
+{"level":"info","message":"Server running on port 3000","service":"bookstore-api"}
+{"level":"info","message":"Server running on port 3000","service":"bookstore-api"}
+{"level":"info","message":"[POST] /login","service":"bookstore-api"}
+{"level":"info","message":"Server running on port 3000","service":"bookstore-api"}
+{"level":"info","message":"[POST] /login","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"Server running on port 3000","service":"bookstore-api"}
+{"level":"info","message":"Server running on port 3000","service":"bookstore-api"}
+{"level":"info","message":"Server running on port 3000","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[POST] /login","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"Server running on port 3000","service":"bookstore-api"}
+{"level":"info","message":"[POST] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[POST] /login","service":"bookstore-api"}
+{"level":"info","message":"[POST] /books/books","service":"bookstore-api"}
+{"level":"info","message":"Server running on port 3000","service":"bookstore-api"}
+{"level":"info","message":"[POST] /login","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}
+{"level":"info","message":"[GET] /books/books","service":"bookstore-api"}

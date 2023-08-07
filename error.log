@@ -1,0 +1,1 @@
+{"level":"error","message":"Error while buying book: Cast to ObjectId failed for value \"64cc9820881c7df8b801ba7\" (type string) at path \"_id\" for model \"Book\"","service":"bookstore-api"}

@@ -10,7 +10,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 // Connect to the MongoDB database
-mongoose.connect('mongodb://host.docker.internal:27017/my_node_project', {
+mongoose.connect('mongodb://localhost:27017/my_node_project', {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 });

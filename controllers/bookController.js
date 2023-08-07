@@ -163,9 +163,10 @@ console.log(paymentResponse)
   logger.info(`Book purchased successfully: ID ${req.params.id}, Payment Number: ${paymentNumber}`);
         res.status(200).json(paymentNumber)
   }catch (err) {
-    Sentry.captureException(error)
+    Sentry.captureException(err)
    // console.error(err.message);
     logger.error(`Error while buying book: ${err.message}`);
+    res.send("sentry meesege")
     return res.status(500).json({ message: 'error is coming' });
   }
 
